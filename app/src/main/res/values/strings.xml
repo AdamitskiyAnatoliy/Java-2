@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A_Adamitskiy_Fundamentals</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="subreddit_array">
+        <item>Announcements</item>
+        <item>Art</item>
+        <item>AskReddit</item>
+        <item>AskScience</item>
+        <item>Aww</item>
+        <item>Blog</item>
+        <item>Books</item>
+        <item>Creepy</item>
+        <item>DataIsBeautiful</item>
+        <item>DIY</item>
+        <item>Documentaries</item>
+        <item>EarthPorn</item>
+        <item>ExplainLikeImFive</item>
+        <item>Fitness</item>
+        <item>Food</item>
+        <item>Funny</item>
+        <item>Futurology</item>
+        <item>Gadgets</item>
+        <item>Gaming</item>
+        <item>GetMotivated</item>
+        <item>Gifs</item>
+        <item>History</item>
+        <item>iAMA</item>
+        <item>InternetIsBeautiful</item>
+        <item>Jokes</item>
+        <item>LifeProTips</item>
+        <item>ListenToThis</item>
+        <item>MildlyInteresting</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>News</item>
+        <item>NoSleep</item>
+        <item>NotTheOnion</item>
+        <item>OldSchoolCool</item>
+        <item>PersonalFinance</item>
+        <item>Philosophy</item>
+        <item>PhotoshopBattles</item>
+        <item>Pics</item>
+        <item>Science</item>
+        <item>ShowerThoughts</item>
+        <item>Space</item>
+        <item>Sports</item>
+        <item>Television</item>
+        <item>TIFU</item>
+        <item>TodayILearned</item>
+        <item>TwoXChromosomes</item>
+        <item>UpliftingNews</item>
+        <item>Videos</item>
+        <item>WorldNews</item>
+        <item>WritingPrompts</item>
+    </string-array>
+
+</resources>
