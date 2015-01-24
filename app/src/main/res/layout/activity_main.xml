@@ -8,6 +8,25 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+<<<<<<< HEAD
         android:id="@+id/mainLayout"></LinearLayout>
+=======
+        android:orientation="vertical">
+
+
+        <LinearLayout android:id="@+id/listContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="horizontal" />
+
+        <LinearLayout android:id="@+id/detailContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="horizontal" />
+
+    </LinearLayout>
+>>>>>>> cc8c2e9f9841fd8bf7c2951d5e9711bae3164fc0
 
 </RelativeLayout>

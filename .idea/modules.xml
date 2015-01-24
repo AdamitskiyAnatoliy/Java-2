@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/A_Adamitskiy_MultiActivity.iml" filepath="$PROJECT_DIR$/A_Adamitskiy_MultiActivity.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/A_Adamitskiy_Fundamentals.iml" filepath="$PROJECT_DIR$/A_Adamitskiy_Fundamentals.iml" />
+>>>>>>> cc8c2e9f9841fd8bf7c2951d5e9711bae3164fc0
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

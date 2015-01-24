@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.anatoliyadamitskiy.a_adamitskiy_multiactivity" >
+=======
+    package="com.anatoliyadamitskiy.a_adamitskiy_fundamentals" >
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+>>>>>>> cc8c2e9f9841fd8bf7c2951d5e9711bae3164fc0
 
     <application
         android:allowBackup="true"
@@ -16,6 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".FormActivity"
             android:label="@string/title_activity_form" >
@@ -24,6 +34,8 @@
             android:name=".DetailActivity"
             android:label="@string/title_activity_detail" >
         </activity>
+=======
+>>>>>>> cc8c2e9f9841fd8bf7c2951d5e9711bae3164fc0
     </application>
 
 </manifest>
