@@ -1,0 +1,50 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anatoliyadamitskiy.a_adamitskiy_multiactivity.DetailFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employees name goes here"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:id="@+id/nameLabel"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employees number goes here"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:id="@+id/numberLabel"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employees position goes here"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:id="@+id/positionLabel"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remove Employee"
+            android:background="#ffff3005"
+            android:textColor="#FFffffff"
+            android:id="@+id/removeButton"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Send Text to Another App"
+            android:id="@+id/intentButton"/>
+
+    </LinearLayout>
+</FrameLayout>
